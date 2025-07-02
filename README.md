@@ -1,2 +1,2 @@
-# mtc-backend-prod
-pythonCode for MTC
+# This prod python repository is for backend developers.
+The infra was last modified by: Edward Delgado
